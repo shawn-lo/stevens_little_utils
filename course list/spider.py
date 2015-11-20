@@ -11,9 +11,9 @@ try:
 except urllib2.URLError, e:
 	print ("The reason is %s and the code is %s" % (e.reason, e.code))
 
-#html = response.read()
-#with open('./target.txt', 'w') as f:
-#	f.write(html)
+html = response.read()
+with open('./target.txt', 'w') as f:
+	f.write(html)
 #print html
 
 with open('./target.txt', 'r') as f:
@@ -32,24 +32,25 @@ def grad_course_xpath():
 			record = []
 			for td in td_list:
 				temp = td.getchildren()
-				
+
 				newtemp = 'none'
 				if len(temp) == 0:
 					newtemp = td.text
 				else:
 					newtemp = temp[0].text
-				
+
 				if(newtemp == u'\xa0'):
 					newtemp = 'none'
-				# add later, get ride of '\n'	
+				# add later, get ride of '\n'
 				record.append(newtemp)
 			#print record
 		record_list.append(record)
+        print record_list
 	return record_list
 
 # 3, Generate JSON
 class Course(object):
-	def __init__(self, course_num, course_name, prereqs, 
+	def __init__(self, course_num, course_name, prereqs,
 			coreqs, coordinator, classroom, webcampus):
 		self.course_num = course_num
 		self.course_name = course_name
@@ -58,7 +59,7 @@ class Course(object):
 		self.coordinator =coordinator
 		self.classroom = classroom
 		self.webcampus = webcampus
-	
+
 def course2dict(course):
 	return {
 		'CourseNumber' : course.course_num,
@@ -85,9 +86,9 @@ def generate_json(l):
 #c = Course('1', 'Datastructure', 'none', 'none', 'Chenyue', 'Fall', 'Winter')
 #print(json.dumps(c, default=course2dict))
 
-course_list = grad_course_xpath
+course_list = grad_course_xpath()
 with open('./information.txt', 'w') as f1:
-	f1.write(course_list)
+	f1.write(str(course_list))
 
 #generate_json(course_list)
 

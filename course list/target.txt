@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.stevens.edu/ses/sites/ses/files/favicon_2.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.stevens.edu/ses/cs/gradcourses" />
+<link rel="shortlink" href="http://www.stevens.edu/ses/cs/gradcourses" />
+  <title>Graduate Courses | Stevens Schaefer School of Engineering and Science</title>  
+  <style type="text/css" media="all">
+@import url("http://www.stevens.edu/ses/modules/system/system.base.css?nx04mf");
+@import url("http://www.stevens.edu/ses/modules/system/system.messages.css?nx04mf");
+@import url("http://www.stevens.edu/ses/modules/system/system.theme.css?nx04mf");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.stevens.edu/ses/misc/ui/jquery.ui.core.css?nx04mf");
+@import url("http://www.stevens.edu/ses/misc/ui/jquery.ui.theme.css?nx04mf");
+@import url("http://www.stevens.edu/ses/misc/ui/jquery.ui.datepicker.css?nx04mf");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.stevens.edu/ses/modules/comment/comment.css?nx04mf");
+@import url("http://www.stevens.edu/ses/sites/all/modules/contrib/date/date_api/date.css?nx04mf");
+@import url("http://www.stevens.edu/ses/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?nx04mf");
+@import url("http://www.stevens.edu/ses/sites/all/modules/contrib/date/date_repeat_field/date_repeat_field.css?nx04mf");
+@import url("http://www.stevens.edu/ses/modules/field/theme/field.css?nx04mf");
+@import url("http://www.stevens.edu/ses/sites/all/modules/contrib/forena/forena_query.css?nx04mf");
+@import url("http://www.stevens.edu/ses/sites/all/modules/contrib/google_cse/google_cse.css?nx04mf");
+@import url("http://www.stevens.edu/ses/modules/node/node.css?nx04mf");
+@import url("http://www.stevens.edu/ses/modules/search/search.css?nx04mf");
+@import url("http://www.stevens.edu/ses/modules/user/user.css?nx04mf");
+@import url("http://www.stevens.edu/ses/sites/all/modules/contrib/views/css/views.css?nx04mf");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.stevens.edu/ses/sites/all/modules/contrib/ctools/css/ctools.css?nx04mf");
+@import url("http://www.stevens.edu/ses/sites/all/modules/contrib/panels/css/panels.css?nx04mf");
+@import url("http://www.stevens.edu/ses/profiles/sit/modules/custom/sit_carousel/css/sit_carousel.css?nx04mf");
+@import url("http://www.stevens.edu/ses/sites/all/libraries/superfish/css/superfish.css?nx04mf");
+@import url("http://www.stevens.edu/ses/sites/all/libraries/superfish/css/superfish-vertical.css?nx04mf");
+@import url("http://www.stevens.edu/ses/sites/all/libraries/superfish/css/superfish-navbar.css?nx04mf");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.stevens.edu/ses/profiles/sit/themes/omega/omega/css/formalize.css?nx04mf");
+@import url("http://www.stevens.edu/ses/profiles/sit/themes/sit_default/css/normalize.css?nx04mf");
+@import url("http://www.stevens.edu/ses/profiles/sit/themes/sit_default/css/fonts.css?nx04mf");
+@import url("http://www.stevens.edu/ses/profiles/sit/themes/sit_default/css/global.css?nx04mf");
+@import url("http://www.stevens.edu/ses/profiles/sit/themes/sit_default/css/sit-default-alpha-all.css?nx04mf");
+@import url("http://www.stevens.edu/ses/sites/ses/files/css_injector/css_injector_2.css?nx04mf");
+@import url("http://www.stevens.edu/ses/sites/ses/files/css_injector/css_injector_3.css?nx04mf");
+@import url("http://www.stevens.edu/ses/sites/ses/files/css_injector/css_injector_7.css?nx04mf");
+@import url("http://www.stevens.edu/ses/sites/ses/files/css_injector/css_injector_21.css?nx04mf");
+</style>
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<style type="text/css" media="all">
+@import url("http://www.stevens.edu/ses/profiles/sit/themes/sit_default/css/sit-default-alpha-default-normal.css?nx04mf");
+@import url("http://www.stevens.edu/ses/profiles/sit/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-24.css?nx04mf");
+</style>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="all and (min-width: 1220px)">
+@import url("http://www.stevens.edu/ses/profiles/sit/themes/sit_default/css/sit-default-alpha-default-wide.css?nx04mf");
+@import url("http://www.stevens.edu/ses/profiles/sit/themes/omega/alpha/css/grid/alpha_default/wide/alpha-default-wide-24.css?nx04mf");
+</style>
+<!--<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="all and (min-width: 0px) and (max-width: 1219px)">
+@import url("http://www.stevens.edu/ses/profiles/sit/themes/sit_default/css/sit-default-alpha-default-normal.css?nx04mf");
+@import url("http://www.stevens.edu/ses/profiles/sit/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-24.css?nx04mf");
+</style>
+<!--<![endif]-->
+  <script type="text/javascript" src="http://www.stevens.edu/ses/sites/ses/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://www.stevens.edu/ses/sites/ses/files/js/js_Stwo2Kg8fxujprvk-GDjW11-Ehznzp8vetQONHItltc.js"></script>
+<script type="text/javascript" src="http://www.stevens.edu/ses/sites/ses/files/js/js_qLXWMtzlWwakbBAbBQgQOvHKAeo3_idz_cHfRwur4e8.js"></script>
+<script type="text/javascript" src="http://www.stevens.edu/ses/sites/ses/files/js/js_YUcThiwre7Fa879JjCNn2ULlVB9xhs7YNL8f1Q4hZeM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-4037868-9", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(function(){
+jQuery('#superfish-1').supersubs({minWidth: 12, maxWidth: 27, extraWidth: 1}).superfish({
+animation: {opacity:'show'},
+speed: 'fast',
+autoArrows: false,
+dropShadows: true});
+});
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.stevens.edu/ses/sites/ses/files/js/js_q1aaVzFmRMVFX0Q1nz51CAkKFxq6ewH3OcjnMQJp_Dk.js"></script>
+<script type="text/javascript" src="http://www.stevens.edu/ses/sites/ses/files/js/js_43n5FBy8pZxQHxPXkf-sQF7ZiacVZke14b0VlvSA554.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/ses\/","pathPrefix":"","ajaxPageState":{"theme":"sit_default","theme_token":"Wyr-dC-ONDyH5355qYTqAD2OKGk0ghUamFKQ-NVLfK0","js":{"sites\/all\/modules\/contrib\/browserclass\/browserclass.js":1,"0":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.datepicker.min.js":1,"misc\/form.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"profiles\/sit\/modules\/custom\/sit_accordion\/js\/sit_accordion.js":1,"profiles\/sit\/modules\/custom\/sit_accordion\/js\/jquery.effects.core.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"misc\/collapse.js":1,"sites\/all\/libraries\/jquery.carouFredSel\/jquery.carouFredSel-5.5.0.js":1,"profiles\/sit\/modules\/custom\/sit_carousel\/js\/sit_carousel.js":1,"profiles\/sit\/modules\/custom\/sit_glue\/sit_glue.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"2":1,"profiles\/sit\/themes\/sit_default\/js\/imgSizer.js":1,"profiles\/sit\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"profiles\/sit\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/forena\/forena_query.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/sit\/modules\/custom\/sit_carousel\/css\/sit_carousel.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"profiles\/sit\/themes\/omega\/omega\/css\/formalize.css":1,"profiles\/sit\/themes\/sit_default\/css\/normalize.css":1,"profiles\/sit\/themes\/sit_default\/css\/fonts.css":1,"profiles\/sit\/themes\/sit_default\/css\/global.css":1,"profiles\/sit\/themes\/sit_default\/css\/sit-default-alpha-all.css":1,"public:\/\/css_injector\/css_injector_2.css":1,"public:\/\/css_injector\/css_injector_3.css":1,"public:\/\/css_injector\/css_injector_7.css":1,"public:\/\/css_injector\/css_injector_21.css":1,"ie::normal::profiles\/sit\/themes\/sit_default\/css\/sit-default-alpha-default-normal.css":1,"ie::normal::profiles\/sit\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-24.css":1,"wide::profiles\/sit\/themes\/sit_default\/css\/sit-default-alpha-default-wide.css":1,"profiles\/sit\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-24.css":1,"normal::profiles\/sit\/themes\/sit_default\/css\/sit-default-alpha-default-normal.css":1,"profiles\/sit\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-24.css":1}},"googleCSE":{"cx":"001246728825567149980:mlcoplzz4w4","language":"","resultsWidth":600,"domain":"www.google.com"},"stevensCarousel":{"opts":{"banner_carousel":{"pid":"1","machine_name":"banner_carousel","settings":{"carousel_effect":"crossfade","carousel_effect_duration":"1000","carousel_pause_duration":"7000","carousel_pager":1,"carousel_pager_type":"full","carousel_pager_position":"bottom","number_of_items_visible_wide":"1","number_of_items_scroll_wide":"1","number_of_items_visible_normal":"1","number_of_items_scroll_normal":"1","number_of_items_visible_narrow":"1","number_of_items_scroll_narrow":"1","number_of_items_visible_mobile":"1","number_of_items_scroll_mobile":"1","carousel_controls":0,"carousel_circular":1,"carousel_direction":"left","carousel_auto":1,"carousel_pause_on_hover":1,"carousel_responsive":0},"table":"carousel_settings_presets","type":"Normal","export_type":1},"carousel_default":{"pid":"2","machine_name":"carousel_default","settings":{"carousel_effect":"scroll","carousel_effect_duration":"500","carousel_pause_duration":"500","carousel_pager":0,"carousel_pager_type":"full","carousel_pager_position":"top","number_of_items_visible_wide":"4","number_of_items_scroll_wide":"1","number_of_items_visible_normal":"3","number_of_items_scroll_normal":"1","number_of_items_visible_narrow":"2","number_of_items_scroll_narrow":"1","number_of_items_visible_mobile":"3","number_of_items_scroll_mobile":"1","carousel_controls":1,"carousel_circular":1,"carousel_direction":"left","carousel_auto":0,"carousel_pause_on_hover":0,"carousel_responsive":1},"table":"carousel_settings_presets","type":"Normal","export_type":1}},"classes":["banner_carousel","carousel_default"]},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/ses\/cs\/gradcourses":true},"omega":{"layouts":{"primary":"normal","order":["wide","normal"],"queries":{"wide":"all and (min-width: 1220px)","normal":"all and (min-width: 0px) and (max-width: 1219px)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="/ses/profiles/sit/themes/omega/omega/js/html5shiv.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in page-cs page-cs-gradcourses context-cs not-ie7 region-sidebar-first-active site-ses not-sit sit-school full-width-home section-cs sub-section-gradcourses">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div class="region region-page-top" id="region-page-top">
+	</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+    
+  <div id="zone-user" class="zone zone-user clearfix container-24">
+    <div class="grid-21 region region-user-first alpha" id="region-user-first">
+	<div class="block block-search grid-5 alpha block-form block-search-form odd block-without-title" id="block-search-form">
+				
+	<form class="google-cse" action="/ses/cs/gradcourses" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-IBlpZdyP61SFE2UqhtM1OiljxuymKsxjrrIpeEhdrvQ" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div><div class="block block-system grid-16 omega block-menu block-user-menu block-system-user-menu even block-without-title" id="block-system-user-menu">
+				
+	<ul class="menu"><li  class="first leaf a-z-index"><a href="http://www.stevens.edu/sit/stevens_index.cfm" title="">A-Z Index</a></li>
+<li  class="leaf mystevens"><a href="http://www.stevens.edu/mystevens" title="">myStevens</a></li>
+<li  class="leaf calendar"><a href="http://www.stevens.edu/calendar" title="">Calendar</a></li>
+<li  class="leaf people-finder"><a href="http://www.stevens.edu/sit/people_finder.cfm" title="">People Finder</a></li>
+<li  class="leaf campus-store"><a href="http://www.stevenscampusstore.com/" title="">Campus Store</a></li>
+<li  class="last leaf make-a-gift"><a href="http://www.stevens.edu/makeagift" title="">Make a Gift</a></li>
+</ul></div></div><div class="grid-3 region region-user-second omega" id="region-user-second">
+	<div class="block block-superfish block-1 block-superfish-1 odd block-without-title" id="block-superfish-1">
+				
+	<ul id="superfish-1" class="sf-menu menu-social sf-horizontal sf-style-none sf-total-items-5 sf-parent-items-5 sf-single-items-0"><li id="menu-1011-1" class="first odd sf-item-1 sf-depth-1 menu-stevens sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="http://www.stevens.edu/sit/" title="" class="sf-depth-1  menuparent">Stevens</a><ul><li id="menu-1024-1" class="first odd sf-item-1 sf-depth-2 menu-download-android-app sf-no-children"><a href="https://market.android.com/details?id=com.u360mobile.stevens" title="" class="sf-depth-2 ">Download Android App</a></li><li id="menu-1032-1" class="middle even sf-item-2 sf-depth-2 menu-download-iphone-app sf-no-children"><a href="http://itunes.apple.com/us/app/stevens-institute-technology/id372838640?mt=8" title="" class="sf-depth-2 ">Download iPhone App</a></li><li id="menu-1017-1" class="last odd sf-item-3 sf-depth-2 menu-video sf-no-children"><a href="http://www.stevens.edu/news/content/stevens-releases-iphone-app" title="" class="sf-depth-2 ">Video</a></li></ul></li><li id="menu-1008-1" class="middle even sf-item-2 sf-depth-1 menu-facebook sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="https://www.facebook.com/" title="" class="sf-depth-1  menuparent">Facebook</a><ul><li id="menu-1014-1" class="first odd sf-item-1 sf-depth-2 menu-stevens sf-no-children"><a href="http://www.facebook.com/Stevens1870" title="" class="sf-depth-2 ">Stevens</a></li><li id="menu-1013-1" class="middle even sf-item-2 sf-depth-2 menu-research-entrepreneurship sf-no-children"><a href="http://www.facebook.com/StevensRE" title="" class="sf-depth-2 ">Research/Entrepreneurship</a></li><li id="menu-1012-1" class="middle odd sf-item-3 sf-depth-2 menu-athletics sf-no-children"><a href="http://www.facebook.com/stevensathletics" title="" class="sf-depth-2 ">Athletics</a></li><li id="menu-1015-1" class="middle even sf-item-4 sf-depth-2 menu-performing-arts sf-no-children"><a href="http://www.facebook.com/DeBaunCenterforPerformingArts" title="" class="sf-depth-2 ">Performing Arts</a></li><li id="menu-1025-1" class="last odd sf-item-5 sf-depth-2 menu-sc-williams-library sf-no-children"><a href="https://www.facebook.com/scwLibrary" title="" class="sf-depth-2 ">SC Williams Library</a></li></ul></li><li id="menu-1007-1" class="middle odd sf-item-3 sf-depth-1 menu-twitter sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="http://twitter.com" title="" class="sf-depth-1  menuparent">Twitter</a><ul><li id="menu-1026-1" class="first odd sf-item-1 sf-depth-2 menu-stevens sf-no-children"><a href="https://twitter.com/FollowStevens" title="" class="sf-depth-2 ">Stevens</a></li><li id="menu-1027-1" class="middle even sf-item-2 sf-depth-2 menu-athletics sf-no-children"><a href="https://twitter.com/stevensducks" title="" class="sf-depth-2 ">Athletics</a></li><li id="menu-1031-1" class="middle odd sf-item-3 sf-depth-2 menu-grad-admissions sf-no-children"><a href="https://twitter.com/StevensGradAdm" title="" class="sf-depth-2 ">Grad Admissions</a></li><li id="menu-1029-1" class="middle even sf-item-4 sf-depth-2 menu-research-entrepreneurship sf-no-children"><a href="http://twitter.com/RE_stevens" title="" class="sf-depth-2 ">Research/Entrepreneurship</a></li><li id="menu-1028-1" class="last odd sf-item-5 sf-depth-2 menu-library sf-no-children"><a href="http://twitter.com/scwLibrary" title="" class="sf-depth-2 ">Library</a></li></ul></li><li id="menu-1010-1" class="middle even sf-item-4 sf-depth-1 menu-youtube sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="http://youtube.com" title="" class="sf-depth-1  menuparent">YouTube</a><ul><li id="menu-1018-1" class="first odd sf-item-1 sf-depth-2 menu-university-news sf-no-children"><a href="http://www.youtube.com/EdwinAStevens70" title="" class="sf-depth-2 ">University News</a></li><li id="menu-1019-1" class="middle even sf-item-2 sf-depth-2 menu-athletics sf-no-children"><a href="http://www.youtube.com/user/StevensAthletics" title="" class="sf-depth-2 ">Athletics</a></li><li id="menu-1021-1" class="middle odd sf-item-3 sf-depth-2 menu-sc-williams-library sf-no-children"><a href="http://www.youtube.com/user/stevenslibrary" title="" class="sf-depth-2 ">SC Williams Library</a></li><li id="menu-1022-1" class="last even sf-item-4 sf-depth-2 menu-research-entrepreneurship sf-no-children"><a href="http://www.youtube.com/reatstevens" title="" class="sf-depth-2 ">Research/Entrepreneurship</a></li></ul></li><li id="menu-5461-1" class="last odd sf-item-5 sf-depth-1 menu-linkedin sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/ses/" title="" class="sf-depth-1  menuparent">LinkedIn</a><ul><li id="menu-5481-1" class="first odd sf-item-1 sf-depth-2 menu-education-page sf-no-children"><a href="http://www.linkedin.com/edu/school?id=18880&amp;trk=edu-hp-follow-name" title="" class="sf-depth-2 ">Education Page</a></li><li id="menu-5466-1" class="middle even sf-item-2 sf-depth-2 menu-company-page sf-no-children"><a href="http://www.linkedin.com/company/7832?trk=edu-cp-sa-cname" title="" class="sf-depth-2 ">Company Page</a></li><li id="menu-5471-1" class="middle odd sf-item-3 sf-depth-2 menu-alumni-association-group sf-no-children"><a href="http://www.linkedin.com/groups?gid=1899&amp;trk=edu-cp-group-name" title="" class="sf-depth-2 ">Alumni Association Group</a></li><li id="menu-5476-1" class="last even sf-item-4 sf-depth-2 menu-sse-group sf-no-children"><a href="http://www.linkedin.com/groups?gid=2074899&amp;trk=my_groups-b-grp-v" title="" class="sf-depth-2 ">SSE Group</a></li></ul></li></ul></div></div>  </div>
+</header>    
+      <section id="section-content" class="section section-content">
+    
+  <div id="zone-branding" class="zone zone-branding clearfix container-24">
+    <div class="grid-24 region region-branding alpha omega" id="region-branding">
+  <div class="logo-img">
+    <a href="/sit">
+      <img src="/ses/profiles/sit/themes/sit_default/logo.png" />
+    </a>
+  </div>
+  <div class="block block-panels-mini site-name-large block-ses-name block-panels-mini-ses-name odd block-without-title" id="block-panels-mini-ses-name">
+				
+	<div class="panel-pane pane-custom pane-1" >
+
+  
+  
+			 <h2><a href="/ses/"><span>Charles V. Schaefer, Jr.</span><br />School of Engineering<br />&amp; Science</a></h2> 	    
+  
+  </div>
+</div></div>  </div>
+  
+  <div id="zone-menu" class="zone zone-menu clearfix container-24">
+    <div class="grid-24 region region-menu alpha omega" id="region-menu">
+    <div class="block block-system block-menu block-main-menu block-system-main-menu odd block-without-title" id="block-system-main-menu">
+      
+  <ul class="menu"><li  class="first expanded about-ses nolink"><span>About SES</span><ul class="menu"><li  class="first leaf overview overview"><a href="/ses/about">Overview</a></li>
+<li  class="leaf history history"><a href="/ses/about/history">History</a></li>
+<li  class="leaf news-events news-events"><a href="/ses/about/news.php" title="">News &amp; Events</a></li>
+<li  class="leaf community community"><a href="/ses/about/community">Community</a></li>
+<li  class="leaf faculty faculty"><a href="/ses/faculty">Faculty</a></li>
+<li  class="leaf adjunct-faculty adjunct-faculty"><a href="/ses/adjunct" title="">Adjunct Faculty</a></li>
+<li  class="leaf staff staff"><a href="/ses/staff" title="">Staff</a></li>
+<li  class="leaf alumni alumni"><a href="/ses/about/alumni">Alumni</a></li>
+<li  class="last leaf resources resources"><a href="/ses/about/resources">Resources</a></li>
+</ul></li>
+<li  class="expanded undergraduate nolink"><span>Undergraduate</span><ul class="menu"><li  class="first leaf overview overview"><a href="/ses/undergrad">Overview</a></li>
+<li  class="leaf advising advising"><a href="/ses/undergrad/advising">Advising</a></li>
+<li  class="leaf programs programs"><a href="/ses/undergrad/programs.html">Programs</a></li>
+<li  class="leaf curriculum curriculum"><a href="/ses/undergrad/curriculum" title="">Curriculum</a></li>
+<li  class="leaf design-spine design-spine"><a href="/ses/undergrad/design_spine.html">Design Spine</a></li>
+<li  class="leaf senior-design senior-design"><a href="/ses/undergrad/senior_design.html">Senior Design</a></li>
+<li  class="leaf study-abroad study-abroad"><a href="/ses/undergrad/study-abroad">Study Abroad</a></li>
+<li  class="last leaf resources resources"><a href="/ses/undergrad/resources.html" title="">Resources</a></li>
+</ul></li>
+<li  class="expanded graduate nolink"><span>Graduate</span><ul class="menu"><li  class="first leaf overview overview"><a href="/ses/graduate" title="">Overview</a></li>
+<li  class="leaf programs programs"><a href="/ses/graduate/programs.html">Programs</a></li>
+<li  class="leaf certificates certificates"><a href="/ses/graduate/certificates.html">Certificates</a></li>
+<li  class="last leaf resources resources"><a href="/ses/graduate/resources.html" title="">Resources</a></li>
+</ul></li>
+<li  class="expanded research nolink"><span>Research</span><ul class="menu"><li  class="first leaf overview overview"><a href="/ses/research">Overview</a></li>
+<li  class="leaf centers-labs centers-labs"><a href="/ses/research/centers_labs.html">Centers &amp; Labs</a></li>
+<li  class="leaf publications publications"><a href="/ses/research/publications">Publications</a></li>
+<li  class="leaf undergraduate-research undergraduate-research"><a href="/ses/research/undergraduate.html" title="">Undergraduate Research</a></li>
+<li  class="leaf energy-environment energy-environment"><a href="/ses/research/energy_environment">Energy &amp; Environment</a></li>
+<li  class="leaf systems-security systems-security"><a href="/ses/research/systems_security">Systems &amp; Security</a></li>
+<li  class="leaf nanotechnology-multiscale nanotechnology-multiscale"><a href="/ses/research/nano_multi">Nanotechnology &amp; Multiscale</a></li>
+<li  class="leaf biomedical-health biomedical-health"><a href="/ses/research/biomed_health">Biomedical &amp; Health</a></li>
+<li  class="last leaf research-magazine research-magazine"><a href="http://research.stevens.edu" title="">Research Magazine</a></li>
+</ul></li>
+<li  class="expanded initiatives nolink"><span>Initiatives</span><ul class="menu"><li  class="first leaf overview overview"><a href="/ses/initiatives">Overview</a></li>
+<li  class="leaf healthcare healthcare"><a href="/ses/initiatives/center-for-healthcare-innovation">Healthcare</a></li>
+<li  class="leaf entrepreneurship entrepreneurship"><a href="/ses/initiatives/entrepreneurship">Entrepreneurship</a></li>
+<li  class="leaf global-opportunities global-opportunities"><a href="/ses/initiatives/worldwide_partnerships" title="">Global Opportunities</a></li>
+<li  class="leaf industry industry"><a href="/ses/initiatives/industry">Industry</a></li>
+<li  class="leaf pre-college pre-college"><a href="/ses/initiatives/precollege">Pre-college</a></li>
+<li  class="leaf green-stevens green-stevens"><a href="http://www.stevens.edu/green" title="">Green@Stevens</a></li>
+<li  class="last leaf solar-decathlon solar-decathlon"><a href="/ses/initiatives/solar-decathlon">Solar Decathlon</a></li>
+</ul></li>
+<li  class="last expanded departments nolink"><span>Departments</span><ul class="menu"><li  class="first leaf chemical-engineering-materials-science chemical-engineering-materials-science"><a href="http://stevens.edu/ses/cems" title="">Chemical Engineering &amp; Materials Science</a></li>
+<li  class="leaf biomedical-engineering-chemistry-and-biological-sciences biomedical-engineering-chemistry-and-biological-sciences"><a href="http://stevens.edu/ses/ccbbme" title="">Biomedical Engineering, Chemistry and Biological Sciences</a></li>
+<li  class="leaf civil-environmental-ocean-engineering civil-environmental-ocean-engineering"><a href="http://stevens.edu/ses/ceoe" title="">Civil, Environmental &amp; Ocean Engineering</a></li>
+<li  class="leaf computer-science computer-science"><a href="http://stevens.edu/ses/cs" title="">Computer Science</a></li>
+<li  class="leaf electrical-computer-engineering electrical-computer-engineering"><a href="http://stevens.edu/ses/ece" title="">Electrical &amp; Computer Engineering</a></li>
+<li  class="leaf mathematical-sciences mathematical-sciences"><a href="http://stevens.edu/ses/math" title="">Mathematical Sciences</a></li>
+<li  class="leaf mechanical-engineering mechanical-engineering"><a href="http://stevens.edu/ses/me" title="">Mechanical Engineering</a></li>
+<li  class="last leaf physics-engineering-physics physics-engineering-physics"><a href="http://stevens.edu/ses/physics" title="">Physics &amp; Engineering Physics</a></li>
+</ul></li>
+</ul></div>
+
+
+  <div id="block-menu-menu-secondary" class="block block-menu menu-block secondary-menu-block block-menu-secondary block-menu-menu-secondary even block-without-title">
+    <ul class="menu">
+      <li class="first expanded engage"><span>Engage</span>
+      <ul class="menu">
+        <li class="first leaf prospective-students"><a href="/sit/about/engage#prospective">Prospective Students</a></li>
+        <li class="leaf current-students"><a href="/sit/about/engage#current">Current Students</a></li>
+        <li class="leaf international-students"><a href="/sit/about/engage#international">International Students</a></li>
+        <li class="leaf faculty-staff"><a href="/sit/about/engage#faculty">Faculty &amp; Staff</a></li>
+        <li class="leaf alumni"><a href="/sit/about/engage#alumni">Alumni</a></li>
+        <li class="leaf working-at-stevens"><a href="/sit/about/engage#working">Working at Stevens</a></li>
+        <li class="last leaf apply"><a href="/sit/about/engage#apply">Apply</a></li>
+      </ul>
+      </li>
+      <li class="expanded academics"><span>Academics</span>
+      <ul class="menu">
+        <li class="first leaf academics-overview academics-overview"><a href="http://www.stevens.edu/provost/academics">Academics Overview</a></li>
+        <li class="leaf schaefer-school-of-engineering-sciences schaefer-school-of-engineering-sciences"><a href="/ses">Schaefer School of Engineering &amp; Sciences</a></li>
+        <li class="leaf school-of-systems-enterprises school-of-systems-enterprises"><a href="/sse">School of Systems &amp; Enterprises</a></li>
+        <li class="leaf school-of-business school-of-business"><a href="/business">School of Business</a></li>
+        <li class="leaf college-of-arts-and-letters college-of-arts-and-letters"><a href="/cal">College of Arts and Letters</a></li>
+        <li class="leaf academic-entrepreneurship academic-entrepreneurship"><a href="http://www.stevens.edu/entrepreneurship">Academic Entrepreneurship</a></li>
+        <li class="last leaf office-of-the-provost office-of-the-provost"><a href="http://www.stevens.edu/provost">Office of the Provost</a></li>
+      </ul>
+      </li>
+      <li class="expanded admissions"><span>Admissions</span>
+      <ul class="menu">
+        <li class="first leaf undergraduate undergraduate"><a href="http://www.stevens.edu/admissions">Undergraduate</a></li>
+        <li class="leaf graduate graduate"><a href="http://www.stevens.edu/graduate">Graduate</a></li>
+        <li class="leaf webcampus webcampus"><a href="http://www.stevens.edu/webcampus">WebCampus</a></li>
+        <li class="leaf international international"><a href="/sit/international/index.cfm">International</a></li>
+        <li class="leaf veterans veterans"><a href="http://www.stevens.edu/veterans">Veterans</a></li>
+        <li class="leaf washington-dc washington-dc"><a href="http://www.stevens.edu/dc">Washington DC</a></li>
+        <li class="last leaf pre-college pre-college"><a href="/sit/admissions/highschool/pre-collegeprograms.cfm">Pre-College</a></li>
+      </ul>
+      </li>
+      <li class="expanded research"><span>Research</span>
+      <ul class="menu">
+        <li class="first leaf research-enterprise research-enterprise"><a href="http://www.stevens.edu/research">Research Enterprise</a></li>
+        <li class="leaf sponsored-research sponsored-research"><a href="http://www.stevens.edu/osr">Sponsored Research</a></li>
+        <li class="leaf research-centers research-centers"><a href="http://www.stevens.edu/research/centers.html">Research Centers</a></li>
+        <li class="last leaf research-at-stevens research-at-stevens"><a href="http://www.stevens.edu/research/research.html">Research at Stevens</a></li>
+      </ul>
+      </li>
+      <li class="expanded athletics"><span>Athletics</span>
+      <ul class="menu">
+        <li class="first leaf stevens-athletics stevens-athletics"><a href="http://www.stevensducks.com/">Stevens Athletics</a></li>
+        <li class="leaf men-039-s-sports men-039-s-sports"><a href="http://www.stevensducks.com/sports/2012/10/10/Msports.aspx">Men&apos;s Sports</a></li>
+        <li class="leaf women-039-s-sports women-039-s-sports"><a href="http://www.stevensducks.com/sports/2012/10/10/Womensports.aspx</a></li>
+        <li class="leaf recreation recreation"><a href="http://stevensrec.com/">Recreation</a></li>
+        <li class="last leaf facilities facilities"><a href="http://www.stevensducks.com/facilities">Facilities</a></li>
+      </ul>
+      </li>
+      <li class="expanded university-life"><span>University Life</span>
+      <ul class="menu">
+        <li class="first leaf ug-student-life ug-student-life"><a href="http://www.stevens.edu/student_life">UG Student Life</a></li>
+        <li class="leaf grad-student-life grad-student-life"><a href="http://www.stevens.edu/gsa">Grad Student Life</a></li>
+        <li class="leaf career-development career-development"><a href="http://www.stevens.edu/ocd">Career Development</a></li>
+        <li class="leaf co-op-education co-op-education"><a href="http://www.stevens.edu/co-op">Co-op Education</a></li>
+        <li class="leaf residence-life residence-life"><a href="http://www.stevens.edu/housing">Residence Life</a></li>
+        <li class="leaf administration administration"><a href="/sit/administration-and-enrollment/index.cfm">Administration</a></li>
+        <li class="last leaf performing-arts performing-arts"><a href="http://www.stevens.edu/debaun">Performing Arts</a></li>
+      </ul>
+      </li>
+      <li class="expanded news"><span>News</span>
+      <ul class="menu">
+        <li class="first leaf stevens-news stevens-news"><a href="/news">Stevens News</a></li>
+        <li class="leaf multimedia multimedia"><a href="/news/multimedia">Multimedia</a></li>
+        <li class="leaf events events"><a href="/news/events">Events</a></li>
+        <li class="last leaf stevens-experts stevens-experts"><a href="/news/stevens-experts">Stevens Experts</a></li>
+      </ul>
+      </li>
+      <li class="last expanded about"><span>About</span>
+      <ul class="menu">
+        <li class="first leaf about-stevens about-stevens"><a href="/sit/about/index.cfm">About Stevens</a></li>
+        <li class="leaf rankings rankings"><a href="/sit/about/rankings-recognition">Rankings</a></li>
+        <li class="leaf leadership"><a href="/sit/trustees/trustee-profiles.cfm">Leadership</a></li>
+        <li class="leaf governance governance"><a href="http://www.stevens.edu/provost/policies/">Governance</a></li>
+        <li class="leaf visiting-campus visiting-campus"><a href="/sit/about/visit">Visiting Campus</a></li>
+        <li class="last leaf brand-graphic-standards brand-graphic-standards"><a href="/sit/branding-identity">Brand &amp; Graphic Standards</a></li>
+      </ul>
+      </li>
+    </ul>
+  </div>
+
+</div>
+<div class="grid-24 region region-header-first alpha omega" id="region-header-first">
+	<div class="block block-block block-32 block-block-32 odd block-without-title" id="block-block-32">
+				
+	 <h2 class="deptName"><a href="/ses/cs">Department of Computer Science</a></h2> </div></div>  </div>
+  
+  <div id="zone-content" class="zone zone-content clearfix container-24">    
+        
+        <aside class="grid-6 region region-sidebar-first alpha" id="region-sidebar-first">
+  <div class="block block-menu block-menu-cs-left-navigation block-menu-menu-cs-left-navigation odd block-without-title" id="block-menu-menu-cs-left-navigation">
+				
+	<ul class="menu"><li  class="first leaf home"><a href="/ses/cs" title="">Home</a></li>
+<li class="expanded nolink"><span>About CS</span><ul class="menu"><li  class="first leaf overview overview"><a href="/ses/cs/about/overview" title="">Overview</a></li>
+<li  class="leaf publications publications"><a href="/ses/cs/about/publications" title="">Publications</a></li>
+<li  class="leaf news news"><a href="/ses/cs/news" title="">News</a></li>
+<li  class="leaf seminars-events seminars-events"><a href="/ses/cs/about/seminars" title="">Seminars &amp; Events</a></li>
+<li  class="collapsed accreditation accreditation"><a href="/ses/cs/about/accreditation" title="">Accreditation</a></li>
+<li  class="last leaf partners partners"><a href="/ses/cs/partners" title="">Partners</a></li>
+</ul></li>
+<li class="expanded nolink"><span>Faculty &amp; Staff</span><ul class="menu"><li  class="first leaf faculty faculty"><a href="/ses/cs/people" title="">Faculty</a></li>
+<li  class="leaf adjunct-faculty adjunct-faculty"><a href="/ses/cs/adjunct_faculty" title="">Adjunct Faculty</a></li>
+<li  class="last leaf staff staff"><a href="/ses/cs/staff" title="">Staff</a></li>
+</ul></li>
+<li class="expanded nolink"><span>Open Positions</span><ul class="menu"><li  class="first last leaf farber-distinguished-chair farber-distinguished-chair"><a href="http://web.stevens.edu/compsci/search/farberapp.php" title="">Farber Distinguished Chair</a></li>
+</ul></li>
+<li class="expanded nolink"><span>Students</span><ul class="menu"><li  class="first leaf phd-students phd-students"><a href="/ses/cs/people/students.php" title="">PhD Students</a></li>
+<li  class="last leaf phd-alumni phd-alumni"><a href="/ses/cs/people/alumni.php" title="">PhD Alumni</a></li>
+</ul></li>
+<li class="expanded nolink"><span>Research</span><ul class="menu"><li  class="first leaf overview overview"><a href="/ses/cs/research/overview" title="">Overview</a></li>
+<li  class="leaf labs-centers labs-centers"><a href="/ses/cs/research/labs" title="">Labs &amp; Centers</a></li>
+<li  class="leaf cybersecurity cybersecurity"><a href="/ses/cs/research/cybersecurity" title="">Cybersecurity</a></li>
+<li  class="leaf visual-computing visual-computing"><a href="/ses/cs/research/visual" title="">Visual Computing</a></li>
+<li  class="last leaf entrepreneurship entrepreneurship"><a href="/ses/cs/research/entrepreneurship" title="">Entrepreneurship</a></li>
+</ul></li>
+<li class="expanded nolink"><span>Undergraduate Programs</span><ul class="menu"><li  class="first leaf overview overview"><a href="/ses/cs/undergrad/overview" title="">Overview</a></li>
+<li  class="leaf curriculum curriculum"><a href="/ses/cs/undergrad/curriculum" title="">Curriculum</a></li>
+<li  class="leaf courses courses"><a href="http://www.stevens.edu/ses/cs/ugradcourses" title="">Courses</a></li>
+<li  class="leaf minors minors"><a href="/ses/cs/undergrad/minors" title="">Minors</a></li>
+<li  class="leaf study-plans study-plans"><a href="/ses/cs/undergrad/studyplans" title="">Study Plans</a></li>
+<li  class="leaf co-op-program co-op-program"><a href="http://www.stevens.edu/sit/co-op" title="">Co-op Program</a></li>
+<li  class="leaf senior-design senior-design"><a href="/ses/cs/undergrad/senior_design" title="">Senior Design</a></li>
+<li  class="leaf honors-program honors-program"><a href="http://www.stevens.edu/ses/cs/undergrad/honors_program" title="Honors thesis program within the Computer Science BS major">Honors Program</a></li>
+<li  class="last leaf faq faq"><a href="/ses/cs/undergrad/faq" title="">FAQ</a></li>
+</ul></li>
+<li class="last expanded nolink"><span>Graduate Programs</span><ul class="menu"><li  class="first leaf overview overview"><a href="/ses/cs/graduate" title="">Overview</a></li>
+<li  class="leaf masters masters"><a href="/ses/cs/graduate/masters" title="">Masters</a></li>
+<li  class="expanded doctorate doctorate"><a href="/ses/cs/graduate/doctorate" title="">Doctorate</a><ul class="menu"><li  class="first last expanded quals quals quals"><a href="/ses/cs/graduate/doctorate/quals" title="">Quals</a><ul class="menu"><li  class="first leaf announcements announcements announcements announcements"><a href="/ses/cs/graduate/doctorate/quals/announcements" title="">Announcements</a></li>
+<li  class="last leaf letter letter letter letter"><a href="/ses/cs/graduate/doctorate/quals/letter" title="">Letter</a></li>
+</ul></li>
+</ul></li>
+<li  class="leaf certificates certificates"><a href="/ses/cs/graduate/certificates" title="">Certificates</a></li>
+<li  class="leaf courses courses"><a href="http://www.stevens.edu/ses/cs/gradcourses" title="">Courses</a></li>
+<li  class="leaf co-op-and-cpt co-op-and-cpt"><a href="/ses/cs/graduate/coop" title="">Co-op and CPT</a></li>
+<li  class="leaf advising-center advising-center"><a href="https://www.stevens.edu/ses/cs/graduate/advising_center" title="">Advising Center</a></li>
+<li  class="last leaf faq faq"><a href="/ses/cs/graduate/faq" title="">FAQ</a></li>
+</ul></li>
+</ul></div><div class="block block-block block-13 block-block-13 even block-without-title" id="block-block-13">
+				
+	 <table bgcolor="#f2f2f2" border="0" cellpadding="5" cellspacing="5" style="text-align:center;"><tbody><tr><td><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="-1">Want to learn more about Research and Entrepreneurship?</font></td></tr><tr><td align="center"><a href="https://www.facebook.com/StevensRE" target="_blank"><img height="30" width="31" style="width: 31px; height: 30px;" class="media-element file-media-original" src="http://www.stevens.edu/ses/sites/ses/files/facebook_1.png" alt="" title="" /></a><a href="https://twitter.com/RE_stevens" target="_blank"><img height="30" width="30" style="width: 30px; height: 30px;" class="media-element file-media-original" src="http://www.stevens.edu/ses/sites/ses/files/twitter_1.png" alt="" title="" /></a><a href="http://www.youtube.com/reatstevens" target="_blank"><img height="32" width="32" style="width: 32px; height: 32px;" class="media-element file-media-original" src="http://www.stevens.edu/ses/sites/ses/files/youtube-icon.png" alt="" title="" /></a><a href="http://pinterest.com/sesstevens/" target="_blank"><img height="26" width="26" style="width: 26px; height: 26px;" class="media-element file-media-original" src="http://www.stevens.edu/ses/sites/ses/files/pinterest-icon.png" alt="" title="" /></a></td></tr></tbody></table><p> </p> </div></aside><div class="grid-18 region region-content omega" id="region-content">
+  <a id="main-content"></a>
+        <h1 class="title page-title" id="page-title">Graduate Courses</h1>
+        <div class="tabs clearfix"></div>    
+    <table>
+    <tr>
+      <td valign="top" align="center">
+        <table width="90%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="top" align="left" id="centercontent">
+              <div class="feEditAdvanced-firstWrapper" id=
+              "feEditAdvanced-firstWrapper-colPos-0-pages-5787"></div><a name=
+              "23655"></a>
+
+              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td valign="center" align="left"><font style=
+                  "font-family:Trebuchet MS, Arial, Helvetica, sans-serif; font-size: 18px; color:#006666; font-weight:bold">
+                  Graduate Courses</font></td>
+                </tr>
+
+                <tr>
+                  <td bgcolor="#006666" class="noheight" height="1px;">&nbsp;</td>
+                </tr>
+              </table><a name="23654"></a>
+
+              <p>Here you will find information about graduate courses offered by the
+              Department of Computer Science at Stevens Institute of Technology. For each
+              course, you can find out the name of the course coordinator (the individual
+              responsible for monitoring content and delivery of the course), when the
+              course is offered, and the observable outcomes expected of students who
+              take that course.</p>
+
+              <p>For Undergraduate Courses, click <a href=
+              "ugradcourses">here</a></p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+<p>Undergraduate students may take any 500-level course for which
+they satisfy the prerequisites. Higher-numbered graduate courses may
+be taken only by undergraduates who satisfy the prerequisites, have a
+3.0 GPA and receive permission of the instructor.
+<br />
+
+<table width="100%" align="center" border="1" bordercolor="#000000" cellpadding="5" cellspacing="0">
+  <col width="9%" />
+  <col width="29%" />
+  <!--COL WIDTH=12%-->
+  <col width="16%" />
+  <col width="10%" />
+  <col width="12%" />
+  <col width="12%" />
+  <tr>
+    <td width="9%" align="left">
+      <b>Course Number</b></td>
+    <td width="34%" align="center">
+      <b>Course Name</b></td>
+    <td width="11%" align="left"><strong>Prereqs</strong></td>
+    <td width="10%"><strong>Coreqs</strong></td>
+    <td width="12%" align="left"><b>Course Coordinator</b> </td>
+    <td width="12%" align="left"><b>Typically Offered: Classroom</b> </td>
+    <td width="12%" align="left"><b>Typically Offered: Webcampus</b> </td>
+  </tr><TR>
+<TD width='49' align='left'>CS 501</TD><TD width='34%' align='left' class=body><A name='CS501' >Introduction to Java Programming</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS501.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS501syl.xml'>Syllabus</A></TD><TD width="11%" align="left">&nbsp;</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Jurkat</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">Fall, Spring, Summer</td></TR>
+<TR>
+<TD width='49' align='left'>CS 503</TD><TD width='34%' align='left' class=body><A name='CS503' >Discrete Mathematics for Cryptography</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS503.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS503syl.xml'>Syllabus</A></TD><TD width="11%" align="left">MA 502 or CS 135</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Suffel</td><td width="12%" align="left">Fall</td><td width="12%" align="left">Spring, Summer</td></TR>
+<TR>
+<TD width='49' align='left'>CS 506</TD><TD width='34%' align='left' class=body><A name='CS506' >Introduction to IT Security</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS506.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS506syl.xml'>Syllabus</A></TD><TD width="11%" align="left">MA 502</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Wetzel</td><td width="12%" align="left">unlikely</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 510</TD><TD width='34%' align='left' class=body><A name='CS510' >Principles of Programming Languages</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS510.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS510syl.xml'>Syllabus</A></TD><TD width="11%" align="left">MA 502 and CS 590</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Naumann</td><td width="12%" align="left">occasionally</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 511</TD><TD width='34%' align='left' class=body><A name='CS511' >Concurrent Programming</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS511.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS511syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 392 or CS 520</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Duchamp</td><td width="12%" align="left">Fall</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 513</TD><TD width='34%' align='left' class=body><A name='CS513' >Knowledge Discovery and Data Mining</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS513.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS513syl.xml'>Syllabus</A></TD><TD width="11%" align="left">MA 331 or equivalent</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Dehnad</td><td width="12%" align="left">Fall, Spring</td><td width="12%" align="left">Summer</td></TR>
+<TR>
+<TD width='49' align='left'>CS 514</TD><TD width='34%' align='left' class=body><A name='CS514' >Computer Architecture</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS514.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS514syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 550 and (CS 590 or CS 570)</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Peyrovian</td><td width="12%" align="left">Fall</td><td width="12%" align="left">occasionally</td></TR>
+<TR>
+<TD width='49' align='left'>CS 519</TD><TD width='34%' align='left' class=body><A name='CS519' >Introduction to E-Commerce</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS519.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS519syl.xml'>Syllabus</A></TD><TD width="11%" align="left">none</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Super</td><td width="12%" align="left">Fall</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 520</TD><TD width='34%' align='left' class=body><A name='CS520' >Introduction to Operating Systems</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS520.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS520syl.xml'>Syllabus</A></TD><TD width="11%" align="left">(CS 590 or CS 570) and CS 550</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Faynberg</td><td width="12%" align="left">Fall</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 521</TD><TD width='34%' align='left' class=body><A name='CS521' >TCP/IP Networking</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS521.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS521syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 520 or CS 492</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Rahman</td><td width="12%" align="left">Spring</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 522</TD><TD width='34%' align='left' class=body><A name='CS522' >Mobile Systems and Applications</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS522.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS522syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 182 or CS 385 or CS 570 or CS 590; programming experience with Java
+  or C#</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Duggan</td><td width="12%" align="left">Spring</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 524</TD><TD width='34%' align='left' class=body><A name='CS524' >Introduction to Cloud Computing</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS524.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS524syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 492 or CS 520</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Faynberg</td><td width="12%" align="left">Spring</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 526</TD><TD width='34%' align='left' class=body><A name='CS526' >Enterprise and Cloud Computing</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS526.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS526syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 182 or CS 385 or CS 570 or CS 590; programming experience with Java
+  or C#</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Duggan</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">Fall</td></TR>
+<TR>
+<TD width='49' align='left'>CS 532</TD><TD width='34%' align='left' class=body><A name='CS532' >3D Computer Vision</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS532.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS532syl.xml'>Syllabus</A></TD><TD width="11%" align="left">none</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Mordohai</td><td width="12%" align="left">Fall</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 537</TD><TD width='34%' align='left' class=body><A name='CS537' >Interactive Computer Graphics</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS537.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS537syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 590 or CS 570 or CS 385 or CS 182</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">vacant</td><td width="12%" align="left">Fall</td><td width="12%" align="left">Spring</td></TR>
+<TR>
+<TD width='49' align='left'>CS 539</TD><TD width='34%' align='left' class=body><A name='CS539' >Real-Time Rendering, Gaming, and Simulation Programming</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS539.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS539syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 537</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">vacant</td><td width="12%" align="left">Spring</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 541</TD><TD width='34%' align='left' class=body><A name='CS541' >Artificial Intelligence</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS541.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS541syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 590 or CS 570 or CS 385 or CS 182</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Codella</td><td width="12%" align="left">Fall</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 544</TD><TD width='34%' align='left' class=body><A name='CS544' >Health Informatics</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS544.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS544syl.xml'>Syllabus</A></TD><TD width="11%" align="left">&nbsp;</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Kleinberg</td><td width="12%" align="left">Spring</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 545</TD><TD width='34%' align='left' class=body><A name='CS545' >Human-Computer Interaction</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS545.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS545syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 590 or CS 570 or CS 385 or CS 182</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Vesonder</td><td width="12%" align="left">Fall</td><td width="12%" align="left">Spring of even-numbered years</td></TR>
+<TR>
+<TD width='49' align='left'>CS 546</TD><TD width='34%' align='left' class=body><A name='CS546' >Web Programming</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS546.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS546syl.xml'>Syllabus</A></TD><TD width="11%" align="left">
+(CS 561 or CS 442) and
+(CS 146 or SOC 611)
+</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Gabarro</td><td width="12%" align="left">Fall, Spring, Summer</td><td width="12%" align="left">Summer</td></TR>
+<TR>
+<TD width='49' align='left'>CS 548</TD><TD width='34%' align='left' class=body><A name='CS548' >Enterprise Software Architecture and Design</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS548.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS548syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 182 or CS 385 or CS 570 or CS 590; programming experience with Java
+  or C#; SOC students: SOC 605</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Duggan</td><td width="12%" align="left">Fall</td><td width="12%" align="left">Spring</td></TR>
+<TR>
+<TD width='49' align='left'>CS 549</TD><TD width='34%' align='left' class=body><A name='CS549' >Distributed Systems and Cloud Computing</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS549.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS549syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 182 or CS 385 or CS 570 or CS 590; programming experience with Java
+  or C#</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Duggan</td><td width="12%" align="left">Fall</td><td width="12%" align="left">Summer</td></TR>
+<TR>
+<TD width='49' align='left'>CS 550</TD><TD width='34%' align='left' class=body><A name='CS550' >Computer Organization and Programming </A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS550.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS550syl.xml'>Syllabus</A></TD><TD width="11%" align="left">Undergraduates require permission of advisor</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Banduk</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">Fall,Spring</td></TR>
+<TR>
+<TD width='49' align='left'>CS 554</TD><TD width='34%' align='left' class=body><A name='CS554' >Web Programming II</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS554.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS554syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 546</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Gabarro</td><td width="12%" align="left">Spring</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 555</TD><TD width='34%' align='left' class=body><A name='CS555' >Agile Methods for Software Development</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS555.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS555syl.xml'>Syllabus</A></TD><TD width="11%" align="left">O-O programming experience</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Ardis (SSE)</td><td width="12%" align="left">Fall, Spring</td><td width="12%" align="left">Fall, Spring</td></TR>
+<TR>
+<TD width='49' align='left'>CS 558</TD><TD width='34%' align='left' class=body><A name='CS558' >Computer Vision</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS558.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS558syl.xml'>Syllabus</A></TD><TD width="11%" align="left">(CS 590 or CS 570 or CS 385 or CS 182) and (MA 232 or equivalent)</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">vacant</td><td width="12%" align="left">Spring</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 559</TD><TD width='34%' align='left' class=body><A name='CS559' >Machine Learning: Fundamentals and Applications</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS559.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS559syl.xml'>Syllabus</A></TD><TD width="11%" align="left">MA 222 or equivalent
+</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Mordohai</td><td width="12%" align="left">Fall</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 561</TD><TD width='34%' align='left' class=body><A name='CS561' >Database Management Systems I</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS561.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS561syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 590 or CS 570</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Kim</td><td width="12%" align="left">Fall, Summer</td><td width="12%" align="left">Fall, Spring, Summer</td></TR>
+<TR>
+<TD width='49' align='left'>CS 562</TD><TD width='34%' align='left' class=body><A name='CS562' >Database Management Systems II</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS562.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS562syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 561 or CS 442
+</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Kim
+</td><td width="12%" align="left">Spring</td><td width="12%" align="left">Summer</td></TR>
+<TR>
+<TD width='49' align='left'>CS 570</TD><TD width='34%' align='left' class=body><A name='CS570' >Introduction to Programming, Data Structures and Algorithms</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS570.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS570syl.xml'>Syllabus</A></TD><TD width="11%" align="left">Closed to undergraduates</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Pfeffer</td><td width="12%" align="left">Fall, Spring</td><td width="12%" align="left">Fall, Spring, Summer</td></TR>
+<TR>
+<TD width='49' align='left'>CS 573</TD><TD width='34%' align='left' class=body><A name='CS573' >Fundamentals of Cybersecurity</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS573.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS573syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 590 or CS 570 or CS 385 or CS 182</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Amoroso
+</td><td width="12%" align="left">Fall, Spring</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 574</TD><TD width='34%' align='left' class=body><A name='CS574' >Object-Oriented Analysis and Design</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS574.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS574syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 590 or CS 570 or CS 385 or CS 182</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Klappholz
+</td><td width="12%" align="left">Spring</td><td width="12%" align="left">Fall, Summer</td></TR>
+<TR>
+<TD width='49' align='left'>CS 576</TD><TD width='34%' align='left' class=body><A name='CS576' >Secure Systems</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS576.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS576syl.xml'>Syllabus</A></TD><TD width="11%" align="left">(CS 306 or CS 506) and (CS 590 or CS 570 or CS 385 or CS 182)</td><td width="10%" align="left">CS 577</td><td width="12%" align="left">Portokalidis</td><td width="12%" align="left">Fall</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 577</TD><TD width='34%' align='left' class=body><A name='CS577' >Cybersecurity Laboratory</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS577.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS577syl.xml'>Syllabus</A></TD><TD width="11%" align="left">(CS 306 or CS 506) and (CS 590 or CS 570 or CS 385 or CS 182)</td><td width="10%" align="left">CS 576</td><td width="12%" align="left">Portokalidis</td><td width="12%" align="left">Fall</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 578</TD><TD width='34%' align='left' class=body><A name='CS578' >Privacy in a Networked World</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS578.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS578syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 579 or CS 594 or CS 506 or CS 306
+</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Wetzel
+</td><td width="12%" align="left">Spring</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 579</TD><TD width='34%' align='left' class=body><A name='CS579' >Foundations of Cryptography</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS579.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS579syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 503 and (CS 590 or CS 570 or CS 385 or CS 182)</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Nicolosi
+</td><td width="12%" align="left">Spring</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 582</TD><TD width='34%' align='left' class=body><A name='CS582' >Causal Inference</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS582.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS582syl.xml'>Syllabus</A></TD><TD width="11%" align="left">none</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Kleinberg</td><td width="12%" align="left">Fall</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 585</TD><TD width='34%' align='left' class=body><A name='CS585' >Introduction to Game Development</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS585.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS585syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 182 or CS 385 or CS 570 or CS 590</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Grapsas</td><td width="12%" align="left">Fall</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 587</TD><TD width='34%' align='left' class=body><A name='CS587' >Game Engine Design</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS587.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS587syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 537 and CS 539 and CS 541</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Grapsas</td><td width="12%" align="left">Spring</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 590</TD><TD width='34%' align='left' class=body><A name='CS590' >Algorithms</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS590.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS590syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 501 or CS 570</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Pfeffer</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">Fall, Spring, Summer</td></TR>
+<TR>
+<TD width='49' align='left'>CS 593</TD><TD width='34%' align='left' class=body><A name='CS593' >Data Mining II: Advanced Algorithms for Big Data</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS593.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS593syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 513</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Dehnad</td><td width="12%" align="left">Spring</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 594</TD><TD width='34%' align='left' class=body><A name='CS594' >Enterprise Security and Information Assurance</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS594.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS594syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 548
+</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Duggan
+</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">Spring</td></TR>
+<TR>
+<TD width='49' align='left'>CS 597</TD><TD width='34%' align='left' class=body><A name='CS597' >User Experience Design and Programming</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS597.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS597syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 545</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Vesonder</td><td width="12%" align="left">Spring of odd-numbered years</td><td width="12%" align="left">&nbsp;</td></TR>
+</table>
+
+<br />
+<a name="23650"></a><table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td bgcolor="#ffffff"></td></tr><tr><td valign="center" align="left"><font style="font-family:Trebuchet MS, Arial, Helvetica, sans-serif; font-size: 18px; color:#006666; font-weight:bold">Graduate Courses (600-899) </font></td></tr><tr><td bgcolor="#006666" class="noheight" height="1px;">&nbsp;</td></tr></table><a name="23652"></a><br />
+
+<br />
+<table width="100%" align="center" border="1" bordercolor="#000000" cellpadding="5" cellspacing="0">
+  <col width="9%" />
+  <col width="29%" />
+  <!--COL WIDTH=12%-->
+  <col width="16%" />
+  <col width="10%" />
+  <col width="12%" />
+  <col width="12%" />
+  <tr>
+    <td width="9%" align="left">
+      <b>Course Number</b></td>
+    <td width="34%" align="center">
+      <b>Course Name</b></td>
+    <td width="11" align="left"><strong>Prereqs</strong></td>
+    <td width="10%"><strong>Coreqs</strong></td>
+    <td width="12%" align="left"><b>Course Coordinator</b> </td>
+    <td width="12%" align="left"><b>Typically Offered: Classroom</b> </td>
+    <td width="12%" align="left"><b>Typically Offered: Webcampus</b> </td>
+  </tr><TR>
+<TD width='49' align='left'>CS 600</TD><TD width='34%' align='left' class=body><A name='CS600' >Advanced Algorithm Design and Implementation</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS600.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS600syl.xml'>Syllabus</A></TD><TD width="11%" align="left">(CS 135 or MA 502) and (CS 590 or CS 570 or CS 385 or CS 182)</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Peyrovian</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">Fall, Spring</td></TR>
+<TR>
+<TD width='49' align='left'>CS 601</TD><TD width='34%' align='left' class=body><A name='CS601' >Algorithmic Complexity</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS601.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS601syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 600</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Nicolosi</td><td width="12%" align="left">Spring</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 609</TD><TD width='34%' align='left' class=body><A name='CS609' >Data Management and Exploration on the Web</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS609.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS609syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 561 or CS 442</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Wang</td><td width="12%" align="left">Spring</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 615</TD><TD width='34%' align='left' class=body><A name='CS615' >Systems Administration</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS615.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS615syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 520 or CS 492</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Schaumann</td><td width="12%" align="left">Spring</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 631</TD><TD width='34%' align='left' class=body><A name='CS631' >Advanced Programming in the UNIX Environment</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS631.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS631syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 520</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Schaumann</td><td width="12%" align="left">Fall</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 643</TD><TD width='34%' align='left' class=body><A name='CS643' >Formal Verification of Software</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS643.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS643syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 600</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Naumann</td><td width="12%" align="left">occasionally</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 665</TD><TD width='34%' align='left' class=body><A name='CS665' >Network Forensics</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS665.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS665syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 521 and CS 579</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Portokalidis</td><td width="12%" align="left">occasionally (Spring)</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 675</TD><TD width='34%' align='left' class=body><A name='CS675' >Threats, Exploits, and Countermeasures </A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS675.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS675syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 576 and CS 577 and CS 579</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Portokalidis</td><td width="12%" align="left">occasionally (Spring)</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 677</TD><TD width='34%' align='left' class=body><A name='CS677' >Parallel Programming for Many-core Processors</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS677.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS677syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 537 or CS 511 or CS 631</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Mordohai</td><td width="12%" align="left">Spring</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 693</TD><TD width='34%' align='left' class=body><A name='CS693' >Cryptographic Protocols</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS693.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS693syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 579</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Nicolosi</td><td width="12%" align="left">occasionally (Fall)</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 695</TD><TD width='34%' align='left' class=body><A name='CS695' >Host Forensics</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS695.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS695syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 506 and (CS 392 or CS 631)</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Portokalidis</td><td width="12%" align="left">occasionally (Spring)</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 696</TD><TD width='34%' align='left' class=body><A name='CS696' >Database Security</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS696.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS696syl.xml'>Syllabus</A></TD><TD width="11%" align="left">(CS 306 or CS 506) and (CS 561 or CS 442)</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Wang</td><td width="12%" align="left">occasionally</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 701</TD><TD width='34%' align='left' class=body><A name='CS701' >CS Co-Op Education Project</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS701.xml'>Outcomes</A><TD width="11%" align="left">&nbsp;</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Co-op Office</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 703</TD><TD width='34%' align='left' class=body><A name='CS703' >Curricular Practical Training</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS703.xml'>Outcomes</A><TD width="11%" align="left">Permission of instructor</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Gabarro</td><td width="12%" align="left">Fall, Spring, Summer 1, Summer 2</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 800</TD><TD width='34%' align='left' class=body><A name='CS800' >Special Problems in Computer Science (M.S.)</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS800.xml'>Outcomes</A><TD width="11%" align="left">Permission of instructor</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Each full time faculty member has his/her own section</td><td width="12%" align="left">Fall, Spring, Summer</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 801</TD><TD width='34%' align='left' class=body><A name='CS801' >Special Problems in Computer Science (Ph.D.)</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS801.xml'>Outcomes</A><TD width="11%" align="left">Permission of instructor</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 803</TD><TD width='34%' align='left' class=body><A name='CS803' >Special Problems in Computer Science (Engineer degree)</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS803.xml'>Outcomes</A><TD width="11%" align="left">Permission of instructor</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 810</TD><TD width='34%' align='left' class=body><A name='CS810' >Special Topics in Computer Science</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS810.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS810syl.xml'>Syllabus</A></TD><TD width="11%" align="left">Permission of instructor</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">occasionally</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>CS 950</TD><TD width='34%' align='left' class=body><A name='CS950' >Design Project (Engineer degree)</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS950.xml'>Outcomes</A><TD width="11%" align="left">Permission of instructor</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">&nbsp;</td></TR>
+</table>
+<br />
+
+<a name="23651"></a><table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td bgcolor="#ffffff"></td></tr><tr><td valign="center" align="left"><font style="font-family:Trebuchet MS, Arial, Helvetica, sans-serif; font-size: 18px; color:#006666; font-weight:bold">SOC Courses (500-899) </font></td></tr><tr><td bgcolor="#006666" class="noheight" height="1px;">&nbsp;</td></tr></table><a name="23653"></a><br />
+
+<table width="100%" align="center" border="1" bordercolor="#000000" cellpadding="5" cellspacing="0">
+  <col width="9%" />
+  <col width="29%" />
+  <!--COL WIDTH=12%-->
+  <col width="16%" />
+  <col width="10%" />
+  <col width="12%" />
+  <col width="12%" />
+  <tr>
+    <td width="9%" align="left">
+      <b>Course Number</b></td>
+    <td width="34%" align="center">
+      <b>Course Name</b></td>
+    <td width="11%" align="left"><strong>Prereqs</strong></td>
+    <td width="10%"><strong>Coreqs</strong></td>
+    <td width="12%" align="left"><b>Course Coordinator</b> </td>
+    <td width="12%" align="left"><b>Typically Offered: Classroom</b> </td>
+    <td width="12%" align="left"><b>Typically Offered: Webcampus</b> </td>
+  </tr><TR>
+<TD width='49' align='left'>SOC 510/CS 545</TD><TD width='34%' align='left' class=body><A name='SOC510' >Human-Computer Interaction</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS545.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS545syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 590 or CS 385 or CS 182</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Vesonder</td><td width="12%" align="left">Spring</td><td width="12%" align="left">Fall, Spring</td></TR>
+<TR>
+<TD width='49' align='left'>SOC 521/SSW 564</TD><TD width='34%' align='left' class=body><A name='SOC521' >Software Requirements Analysis and Engineering</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/SSW564.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/SSW564syl.xml'>Syllabus</A></TD><TD width="11%" align="left">SOC 606</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">School of Systems and Enterprises</td><td width="12%" align="left">Fall</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>SOC 542/CS 548</TD><TD width='34%' align='left' class=body><A name='SOC542' >Enterprise Software Architecture and Design</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS548.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS548syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 590 or CS 385 or CS 182</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Duggan</td><td width="12%" align="left">Fall</td><td width="12%" align="left">Spring</td></TR>
+<TR>
+<TD width='49' align='left'>SOC 550/CS 513</TD><TD width='34%' align='left' class=body><A name='SOC550' >Knowledge Discovery and Data Mining</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS513.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS513syl.xml'>Syllabus</A></TD><TD width="11%" align="left">MA 331 or equivalent</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Dehnad</td><td width="12%" align="left">Fall, Spring</td><td width="12%" align="left">Summer</td></TR>
+<TR>
+<TD width='49' align='left'>SOC 551/CS 578</TD><TD width='34%' align='left' class=body><A name='SOC551' >Privacy in a Networked World</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS578.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS578syl.xml'>Syllabus</A></TD><TD width="11%" align="left">CS 579 or CS 594 or CS 506</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Wetzel</td><td width="12%" align="left">Spring</td><td width="12%" align="left">occasionally</td></TR>
+<TR>
+<TD width='49' align='left'>SOC 552/CS 544</TD><TD width='34%' align='left' class=body><A name='SOC552' >Health Informatics</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS544.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS544syl.xml'>Syllabus</A></TD><TD width="11%" align="left">SOC 542</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Kleinberg</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>SOC 553</TD><TD width='34%' align='left' class=body><A name='SOC553' >Introduction to Text Mining and Statistical Natural Language Processing</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/SOC553.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/SOC553syl.xml'>Syllabus</A></TD><TD width="11%" align="left">Programming experience and knowledge of Java or C#</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Jurkat</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">Spring</td></TR>
+<TR>
+<TD width='49' align='left'>SOC 594/CS 594</TD><TD width='34%' align='left' class=body><A name='SOC594' >Enterprise Security and Information Assurance</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS594.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/CS594syl.xml'>Syllabus</A></TD><TD width="11%" align="left">SOC 542</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Duggan</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">Fall</td></TR>
+<TR>
+<TD width='49' align='left'>SOC 605</TD><TD width='34%' align='left' class=body><A name='SOC605' >Introduction to Service Oriented Computing</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/SOC605.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/SOC605syl.xml'>Syllabus</A></TD><TD width="11%" align="left">none</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Schwartz</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">Fall</td></TR>
+<TR>
+<TD width='49' align='left'>SOC 606</TD><TD width='34%' align='left' class=body><A name='SOC606' >Introduction to Developing Internet Applications</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/SOC606.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/SOC606syl.xml'>Syllabus</A></TD><TD width="11%" align="left">SOC 605</td><td width="10%" align="left">SOC 611</td><td width="12%" align="left">vacant</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">Spring</td></TR>
+<TR>
+<TD width='49' align='left'>SOC 611</TD><TD width='34%' align='left' class=body><A name='SOC611' >Fundamentals of Service Oriented Computing</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/SOC611.xml'>Outcomes</A> | <A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/SOC611syl.xml'>Syllabus</A></TD><TD width="11%" align="left">&nbsp;</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">vacant</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">Fall</td></TR>
+<TR>
+<TD width='49' align='left'>SOC 703</TD><TD width='34%' align='left' class=body><A name='SOC703' >Curricular Practical Training</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/SOC703.xml'>Outcomes</A><TD width="11%" align="left">Permission of instructor</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">Gabarro</td><td width="12%" align="left">Fall, Spring, Summer 1, Summer 2</td><td width="12%" align="left">&nbsp;</td></TR>
+<TR>
+<TD width='49' align='left'>SOC 810</TD><TD width='34%' align='left' class=body><A name='SOC810' >Special Topics in Service Oriented Computing</A><BR><A HREF='http://web.stevens.edu/csfiles/graduate/masters/courses/SOC810.xml'>Outcomes</A><TD width="11%" align="left">Permission of instructor</td><td width="10%" align="left">&nbsp;</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">&nbsp;</td><td width="12%" align="left">&nbsp;</td></TR>
+</table>  </div>  </div>
+</section>    
+  
+      <footer id="section-footer" class="section section-footer">
+    
+  <div id="zone-footer" class="zone zone-footer clearfix container-24">
+    <div class="grid-24 region region-footer-first" id="region-footer-first">
+	<div class="block block-block block-6 block-block-6 odd block-without-title" id="block-block-6">
+				
+	 <p>© 2015 Stevens Institute of Technology. All rights reserved. Castle Point on Hudson, Hoboken NJ 07030-5991 USA +1.201.216.5000</p> </div></div>  </div>
+</footer>  </div>  <script type="text/javascript" src="http://www.stevens.edu/ses/sites/ses/files/js/js_o8oAijWv-Z-oDQb4SldYH9umO_55IFS7s-9md4-c-Fo.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0020/6653.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      
+//--><!]]>
+</script>
+</body>
+</html>
